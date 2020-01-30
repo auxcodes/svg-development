@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="blue_eye_wink.svg"
+   inkscape:export-filename="C:\Users\Phill\Pictures\eyecon\blue_eye_wink.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="277.27138"
+     inkscape:cy="161.63673"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2475"
+     inkscape:window-height="1411"
+     inkscape:window-x="76"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       id="path10-2"
+       cx="150"
+       cy="150.21428"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.2745848"
+       rx="150"
+       ry="101.78572" />
+    <ellipse
+       id="path10-5-0"
+       cx="148.71428"
+       cy="155.14285"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.25407782"
+       rx="147"
+       ry="88.928574" />
+  </g>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke-width:0.45764133"
+     d="M 250 80 A 250 169.64287 0 0 0 0 249.64258 A 250 169.64287 0 0 0 250 419.28516 A 250 169.64287 0 0 0 500 249.64258 A 250 169.64287 0 0 0 250 80 z M 250 126.47266 A 245 132.85714 0 0 1 495 259.32812 A 245 132.85714 0 0 1 250 392.18555 A 245 132.85714 0 0 1 5 259.32812 A 245 132.85714 0 0 1 250 126.47266 z "
+     transform="scale(0.6)"
+     id="path10" />
+  <circle
+     id="path10-5-9"
+     cx="150"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.20666665"
+     r="93" />
+  <circle
+     id="path10-5-9-4"
+     cx="150"
+     cy="150"
+     style="fill:#0b87ff;fill-opacity:1;stroke-width:0.19999999"
+     r="90" />
+  <circle
+     id="path10-5-9-8-8"
+     cx="147.60001"
+     cy="147.60001"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.13333333"
+     r="60" />
+  <circle
+     id="path10-5-9-8"
+     cx="150"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.13333333"
+     r="60" />
+  <path
+     id="path10-5-9-8-0"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.11333332"
+     r="51"
+     cy="142.02179"
+     cx="121.00664" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.81031877"
+     id="path4625"
+     cx="109.60583"
+     cy="109.76029"
+     r="15" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.4861913"
+     id="path4625-2"
+     cx="132.03735"
+     cy="128.41518"
+     r="9" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.2745848"
+     d="M 150,48 A 150,101.78572 0 0 0 0,149.78555 150,101.78572 0 0 0 150,251.5711 150,101.78572 0 0 0 300,149.78555 150,101.78572 0 0 0 150,48 Z m 0,27.883596 A 147,79.714284 0 0 1 297,155.59687 147,79.714284 0 0 1 150,235.31133 147,79.714284 0 0 1 3,155.59687 147,79.714284 0 0 1 150,75.883596 Z"
+     id="path10-0" />
+</svg>

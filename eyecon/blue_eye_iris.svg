@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="blue_eye_iris.svg"
+   inkscape:export-filename="C:\Users\Phill\Pictures\blue_eye_iris.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e6e6e6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="210.71429"
+     inkscape:cy="161.63673"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="2475"
+     inkscape:window-height="1411"
+     inkscape:window-x="76"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.60000002"
+     id="rect4691"
+     width="300"
+     height="300"
+     x="-0.85714287"
+     y="-2.1428573"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <circle
+     id="path10-5-9"
+     cx="150"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.27507329"
+     r="123.783" />
+  <circle
+     id="path10-5-9-4"
+     cx="150"
+     cy="150"
+     style="fill:#0b87ff;fill-opacity:1;stroke-width:0.26619998"
+     r="119.79" />
+  <circle
+     id="path10-5-9-8-8"
+     cx="146.80559"
+     cy="146.8056"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.17746666"
+     r="79.860001" />
+  <circle
+     id="path10-5-9-8"
+     cx="150"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.17746666"
+     r="79.860001" />
+  <path
+     id="path10-5-9-8-0"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.11333332"
+     r="51"
+     cy="142.02179"
+     cx="121.00664"
+     d=""
+     inkscape:connector-curvature="0" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.07853425"
+     id="path4625"
+     cx="96.235352"
+     cy="96.440948"
+     r="19.965" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.64712059"
+     id="path4625-2"
+     cx="126.09172"
+     cy="121.2706"
+     r="11.978999" />
+</svg>
