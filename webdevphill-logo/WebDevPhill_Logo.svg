@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="WebDevPhill_Logo.svg">
+   sodipodi:docname="WebDevPhill_Logo.svg"
+   inkscape:export-filename="C:\Users\Phill\Pictures\WebDevPhill_Logo.png"
+   inkscape:export-xdpi="104.04"
+   inkscape:export-ydpi="104.04">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -265,15 +268,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="495.02488"
-     inkscape:cy="454.7937"
+     inkscape:cx="426.04714"
+     inkscape:cy="455.50799"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
-     inkscape:window-width="1856"
-     inkscape:window-height="1385"
-     inkscape:window-x="1414"
-     inkscape:window-y="1090"
+     inkscape:window-width="1723"
+     inkscape:window-height="950"
+     inkscape:window-x="3447"
+     inkscape:window-y="264"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -284,10 +287,17 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title
-           WebDevPhill_Logo=""></dc:title>
+           WebDevPhill_Logo="" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.38379082;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4565"
+     width="306.24234"
+     height="302.65005"
+     x="-47.092285"
+     y="-2.5068214" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
