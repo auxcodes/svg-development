@@ -114,6 +114,38 @@
          result="composite2"
          id="feComposite1052" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1139">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1129" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite1131" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.6"
+         result="blur"
+         id="feGaussianBlur1133" />
+      <feOffset
+         dx="3"
+         dy="6.5"
+         result="offset"
+         id="feOffset1135" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite1137" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,7 +155,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="1070.197"
+     inkscape:cx="1120.3583"
      inkscape:cy="319.94924"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -143,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,7 +189,7 @@
      id="layer2"
      inkscape:label="Layer 2" />
   <path
-     style="fill:#0089ff;fill-opacity:1;stroke:none;stroke-width:0.19179283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1054)"
+     style="fill:#004dd1;fill-opacity:1;stroke:none;stroke-width:0.19179283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1054)"
      d="m -1.0196093,140.75683 0.52768002,100.26673 0.92465,32.13854 C 59.673502,202.52944 103.62208,235.93307 172.41493,249.06865 c 74.33215,18.9963 168.92531,5.27448 186.83935,-16.40214 22.32673,-27.05863 38.73435,22.05705 78.13541,25.34631 46.79718,3.66224 61.55238,2.50148 70.76125,-16.98926 h 0.86868 l -0.52766,-100.26673 z"
      id="rect816-9-5"
      inkscape:connector-curvature="0"
@@ -169,9 +201,21 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccc" />
   <path
-     style="fill:#004dd1;fill-opacity:1;stroke:none;stroke-width:0.23661479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1018)"
+     style="fill:#0088ff;fill-opacity:1;stroke:none;stroke-width:0.23661479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1018)"
      d="M -0.75573093,-1.511905 -0.22804807,151.09562 0.6965999,200.01099 C 74.678457,153.99854 137.52585,211.23153 205.94073,216.84195 c 76.22203,3.78317 95.21996,-33.17399 142.61611,-49.91316 44.62735,-12.45748 64.43674,22.85231 103.83781,27.85861 50.19896,5.57398 45.67738,-23.80642 56.02018,-43.69178 h 0.86868 L 508.75583,-1.511905 Z"
      id="rect816"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccc" />
-</svg>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot845"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter1139)"
+     transform="matrix(0.2862054,0,0,0.35977942,-26.941403,-16.069938)"><flowRegion
+       id="flowRegion847"><rect
+         id="rect849"
+         width="1480"
+         height="300"
+         x="404.28571"
+         y="194.28572" /></flowRegion><flowPara
+       id="flowPara851"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Peralta;-inkscape-font-specification:Peralta;fill:#ffffff;fill-opacity:1">Retrauxfit</flowPara></flowRoot></svg>
